@@ -1340,6 +1340,24 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "Waluka",
+      "hp": 77,
+      "sprites": {
+        "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
+      },
+      "id": 151
+    },
+    {
+      "name": "Alien",
+      "hp": 677,
+      "sprites": {
+        "front": "https://media.giphy.com/media/YGIpIZjgxL68w/giphy.gif",
+        "back": "https://media.giphy.com/media/co6w1RmQLLyLYh9XCz/giphy.gif"
+      },
+      "id": 152
     }
   ]
 }
